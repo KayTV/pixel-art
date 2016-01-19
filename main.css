@@ -6,3 +6,57 @@
   float: left;
   margin: 2px;
 }
+
+.color-block {
+  height: 10px;
+  width: 10px;
+  background-color: red;
+  border: 1px solid black;
+  float: left;
+  margin: 2px;
+}
+
+.color-block2 {
+  height: 10px;
+  width: 10px;
+  background-color: orange;
+  border: 1px solid black;
+  float: left;
+  margin: 2px;
+}
+
+.color-block3 {
+  height: 10px;
+  width: 10px;
+  background-color: yellow;
+  border: 1px solid black;
+  float: left;
+  margin: 2px;
+}
+
+.color-block4 {
+  height: 10px;
+  width: 10px;
+  background-color: green;
+  border: 1px solid black;
+  float: left;
+  margin: 2px;
+}
+
+.color-block5 {
+  height: 10px;
+  width: 10px;
+  background-color: blue;
+  border: 1px solid black;
+  float: left;
+  margin: 2px;
+}
+
+.color-block6 {
+  height: 10px;
+  width: 10px;
+  background-color: purple;
+  border: 1px solid black;
+  float: left;
+  margin: 2px;
+}
